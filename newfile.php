@@ -1,3 +1,7 @@
-abc
 
-xyz
+<?php 
+echo "abc";
+
+
+ echo "xyz";
+?>
